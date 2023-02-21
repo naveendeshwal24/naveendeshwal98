@@ -1,4 +1,4 @@
-![logo]([https://github.com/naveendeshwal98/naveendeshwal98/blob/main/wallpaper.png](https://github.com/naveendeshwal98/naveendeshwal98/blob/main/wallpaper.gif))
+![logo](https://github.com/naveendeshwal98/naveendeshwal98/blob/main/wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Naveen Kumar Deswal</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
 <img align="right" alt="web developer" width="400" height="250" src="https://jayamwebsolutions.com/img/website.gif" alt="naveendeshwal98" /> </p>
