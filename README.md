@@ -7,13 +7,13 @@
 [![](https://visitcount.itsvg.in/api?id=naveendeshwal98&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, MongoDB**
+🌱 I’m currently learning   **Reactjs, Nodejs, MongoDB**
 
-- 📝 I regularly write articles on [https://nexusnotes.com/downloads/artificial-intellegence-notes-849751](https://nexusnotes.com/downloads/artificial-intellegence-notes-849751)
+📝 I regularly write articles on [https://nexusnotes.com/downloads/artificial-intellegence-notes-849751](https://nexusnotes.com/downloads/artificial-intellegence-notes-849751)
 
-- 📫 How to reach me **naveendeshwal1998@gmail.com**
+📫 How to reach me **naveendeshwal1998@gmail.com**
 
-- ⚡ Fun fact **Introvert but funny😊**
+⚡ Fun fact **Introvert but funny😊**
 
 
 
@@ -32,7 +32,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=naveendeshwal98&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
 
