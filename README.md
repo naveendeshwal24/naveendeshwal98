@@ -1,7 +1,7 @@
 ![logo](https://github.com/naveendeshwal98/naveendeshwal98/blob/main/wallpaper.gif)
 <h1 align="center">Hi 👋, I'm Naveen Kumar Deswal</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
-<img align="right" alt="web developer" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVXM6g6uZSN6IWW-aaO6JHZBPsJ1WNPo47BKi-N3rs5lASE2dqU3ORKsaYij34dhNL3M&usqp=CAU">
+<img align="right" alt="web developer" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVXM6g6uZSN6IWW-aaO6JHZBPsJ1WNPo47BKi-N3rs5lASE2dqU3ORKsaYij34dhNL3M&usqp=CAU.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveendeshwal98&label=Profile%20views&color=0e75b6&style=flat" alt="naveendeshwal98" /> </p>
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, MongoDB**
