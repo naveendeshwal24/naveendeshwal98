@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveendeshwal98&show_icons=true&locale=en" alt="naveendeshwal98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveendeshwal98&" alt="naveendeshwal98" /></p>
-<img src="https://camo.githubusercontent.com/5dd5bc8cef9e8c5c9d99e79a3632485584fc8141affebcb2ad9923fd709be090/68747470733a2f2f686f6c6f70696e2e6d652f6368616e64616e636b3232"  data-canonical-src="https://holopin.me/@naveendeswal" style="max-width: 100%;">
