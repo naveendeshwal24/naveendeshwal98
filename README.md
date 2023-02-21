@@ -1,7 +1,7 @@
 ![logo](https://github.com/naveendeshwal98/naveendeshwal98/blob/main/wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Naveen Kumar Deswal</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
-<img align="right" alt="web developer" width="400" height="250" src="https://jayamwebsolutions.com/img/website.gif" alt="naveendeshwal98" /> </p>
+<img align="right" alt="web developer" width="400" src="https://jayamwebsolutions.com/img/website.gif" alt="naveendeshwal98" /> </p>
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, MongoDB**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/naveen-deshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/naveen-deshwal" height="30" width="40" /></a>
-<a href="https://instagram.com/its_navdeshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_navdeshwal" height="30" width="40" /></a>
-<a href="/https://navigatingsocialmedia4u.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://navigatingsocialmedia4u.blogspot.com/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/naveen-deshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/naveendeshwal98/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/naveen-deshwal" height="30" width="40" /></a>
+<a href="https://instagram.com/its_navdeshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/naveendeshwal98/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_navdeshwal" height="30" width="40" /></a>
+<a href="/https://navigatingsocialmedia4u.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/naveendeshwal98/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://navigatingsocialmedia4u.blogspot.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveendeshwal98&show_icons=true&locale=en" alt="naveendeshwal98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveendeshwal98&" alt="naveendeshwal98" /></p>
+<img src="https://camo.githubusercontent.com/5dd5bc8cef9e8c5c9d99e79a3632485584fc8141affebcb2ad9923fd709be090/68747470733a2f2f686f6c6f70696e2e6d652f6368616e64616e636b3232" alt="@chandanck22's Holopin board" data-canonical-src="https://holopin.me/naveendeswal" style="max-width: 100%;">
