@@ -2,21 +2,26 @@
 ![logo](https://github.com/naveendeshwal98/naveendeshwal98/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Naveen Kumar Deswal</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
-<img align="right" alt="web developer" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="web developer" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveendeshwal98&label=Profile%20views&color=0e75b6&style=flat" alt="naveendeshwal98" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Node.Js, MongoDB**
+- 🌱 I’m currently learning **Reactjs, Nodejs, MongoDB**
 
-- 📝 I regularly write articles on [https://navigatingsocialmedia4u.blogspot.com/](https://navigatingsocialmedia4u.blogspot.com/)
+- 📝 I regularly write articles on [https://nexusnotes.com/downloads/artificial-intellegence-notes-849751](https://nexusnotes.com/downloads/artificial-intellegence-notes-849751)
 
 - 📫 How to reach me **naveendeshwal1998@gmail.com**
 
-- ⚡ Fun fact **Introvert but funny**
+- ⚡ Fun fact **Introvert but funny😊**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/naveen-deshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/naveen-deshwal" height="30" width="40" /></a>
 <a href="https://instagram.com/its_navdeshwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_navdeshwal" height="30" width="40" /></a>
+<a href="/https://navigatingsocialmedia4u.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://navigatingsocialmedia4u.blogspot.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveendeshwal98&show_icons=true&locale=en&layout=compact" alt="naveendeshwal98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveendeshwal98&show_icons=true&locale=en" alt="naveendeshwal98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveendeshwal98&" alt="naveendeshwal98" /></p>
