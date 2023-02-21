@@ -11,7 +11,7 @@
 
 🌱 I’m currently learning   **Reactjs, Nodejs, MongoDB**
 
-📝 I regularly write articles on [https://nexusnotes.com/downloads/artificial-intellegence-notes-849751](https://nexusnotes.com/downloads/artificial-intellegence-notes-849751)
+📝 I regularly write articles on [https://navigatingsocialmedia4u.blogspot.com/)
 
 📫 How to reach me **naveendeshwal1998@gmail.com**
 
